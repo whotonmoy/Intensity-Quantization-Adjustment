@@ -9,4 +9,4 @@ The program has been tested by converting intensity level to the following 4 new
 3. 32 levels (by setting the three least significant bits of each pixel to 0’s)
 4. 16 levels (by setting the four least significant bits of each pixel to 0’s)
 
-This was an assignment that I did in my second to last semester(Winter 2023) for Image Processing Course (CS 425).
+This was an assignment that I did in my second to last semester(Fall 2023) for Image Processing Course (CS 425).
